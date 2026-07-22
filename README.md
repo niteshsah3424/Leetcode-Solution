@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0073-set-matrix-zeroes) |
 ## Hash Table
 |  |
@@ -14,5 +15,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0073-set-matrix-zeroes) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
