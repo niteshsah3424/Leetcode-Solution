@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0048-rotate-image](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0073-set-matrix-zeroes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -53,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0442-find-all-duplicates-in-an-array](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0442-find-all-duplicates-in-an-array) |
+## Binary Search
+|  |
+| ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 <!---LeetCode Topics End-->
