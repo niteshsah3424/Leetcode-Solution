@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0204-count-primes](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0204-count-primes) |
 | [0410-split-array-largest-sum](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0410-split-array-largest-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0560-subarray-sum-equals-k) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0069-sqrtx) |
+| [0204-count-primes](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0231-power-of-two) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Prefix Sum
@@ -136,4 +138,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0567-permutation-in-string) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
