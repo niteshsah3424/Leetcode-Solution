@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0048-rotate-image](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0048-rotate-image) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0073-set-matrix-zeroes) |
 | [0229-majority-element-ii](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0229-majority-element-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0442-find-all-duplicates-in-an-array) |
