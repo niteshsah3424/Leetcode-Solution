@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0073-set-matrix-zeroes) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0119-pascals-triangle-ii) |
 | [0410-split-array-largest-sum](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0410-split-array-largest-sum) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0443-string-compression) |
@@ -145,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0042-trapping-rain-water) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
@@ -180,4 +184,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0229-majority-element-ii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
