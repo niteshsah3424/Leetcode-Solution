@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0239-sliding-window-maximum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0410-split-array-largest-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0560-subarray-sum-equals-k) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0240-search-a-2d-matrix-ii) |
 ## Math
 |  |
 | ------- |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0191-number-of-1-bits) |
+| [0240-search-a-2d-matrix-ii](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0912-sort-an-array](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0912-sort-an-array) |
 ## Bit Manipulation
 |  |
@@ -100,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0209-minimum-size-subarray-sum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0410-split-array-largest-sum) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Dynamic Programming
