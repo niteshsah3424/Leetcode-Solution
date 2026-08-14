@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0204-count-primes](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0209-minimum-size-subarray-sum) |
+| [0215-kth-largest-element-in-an-array](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0239-sliding-window-maximum) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0191-number-of-1-bits) |
+| [0215-kth-largest-element-in-an-array](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0912-sort-an-array](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0912-sort-an-array) |
 ## Bit Manipulation
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0015-3sum) |
+| [0215-kth-largest-element-in-an-array](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0229-majority-element-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0769-max-chunks-to-make-sorted](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0769-max-chunks-to-make-sorted) |
@@ -129,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0239-sliding-window-maximum) |
 | [0912-sort-an-array](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0912-sort-an-array) |
 ## Merge Sort
@@ -252,4 +256,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0142-linked-list-cycle-ii) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
