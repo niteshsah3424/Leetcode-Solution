@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0769-max-chunks-to-make-sorted](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0769-max-chunks-to-make-sorted) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0912-sort-an-array](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0912-sort-an-array) |
+| [1046-last-stone-weight](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/1046-last-stone-weight) |
 | [1207-unique-number-of-occurrences](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/1207-unique-number-of-occurrences) |
 ## Hash Table
 |  |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0912-sort-an-array](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0912-sort-an-array) |
+| [1046-last-stone-weight](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/1046-last-stone-weight) |
 ## Merge Sort
 |  |
 | ------- |
