@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0119-pascals-triangle-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0231-power-of-two) |
 | [0476-number-complement](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0476-number-complement) |
@@ -282,4 +284,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0509-fibonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
