@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0509-fibonacci-number) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0119-pascals-triangle-ii) |
 | [0410-split-array-largest-sum](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0410-split-array-largest-sum) |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0509-fibonacci-number) |
 ## Backtracking
 |  |
