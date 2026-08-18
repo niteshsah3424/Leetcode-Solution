@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0240-search-a-2d-matrix-ii) |
+| [0287-find-the-duplicate-number](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0410-split-array-largest-sum) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0090-subsets-ii) |
 | [0191-number-of-1-bits](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0231-power-of-two) |
+| [0287-find-the-duplicate-number](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0287-find-the-duplicate-number) |
 | [0476-number-complement](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0476-number-complement) |
 | [1009-complement-of-base-10-integer](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/1009-complement-of-base-10-integer) |
 ## Recursion
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0240-search-a-2d-matrix-ii) |
+| [0287-find-the-duplicate-number](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0287-find-the-duplicate-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0410-split-array-largest-sum) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -197,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0142-linked-list-cycle-ii) |
+| [0287-find-the-duplicate-number](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0567-permutation-in-string) |
@@ -292,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0142-linked-list-cycle-ii) |
+| [0287-find-the-duplicate-number](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0287-find-the-duplicate-number) |
 ## Quickselect
 |  |
 | ------- |
@@ -316,4 +321,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0973-k-closest-points-to-origin) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
