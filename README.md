@@ -336,4 +336,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0079-word-search) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
