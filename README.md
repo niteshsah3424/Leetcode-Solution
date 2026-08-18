@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0119-pascals-triangle-ii) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Math
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0079-word-search](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0424-longest-repeating-character-replacement) |
@@ -312,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0090-subsets-ii) |
 ## Geometry
 |  |
@@ -325,4 +329,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0287-find-the-duplicate-number) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
