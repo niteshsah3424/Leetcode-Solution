@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0769-max-chunks-to-make-sorted](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0769-max-chunks-to-make-sorted) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0912-sort-an-array](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/1046-last-stone-weight) |
 | [1207-unique-number-of-occurrences](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/1207-unique-number-of-occurrences) |
 ## Hash Table
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0509-fibonacci-number) |
+| [0973-k-closest-points-to-origin](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0973-k-closest-points-to-origin) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Prefix Sum
 |  |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0973-k-closest-points-to-origin) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -120,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0769-max-chunks-to-make-sorted](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0769-max-chunks-to-make-sorted) |
 | [0912-sort-an-array](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0973-k-closest-points-to-origin) |
 ## Binary Search
 |  |
 | ------- |
@@ -157,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0912-sort-an-array](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/1046-last-stone-weight) |
 ## Merge Sort
 |  |
@@ -286,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0973-k-closest-points-to-origin) |
 ## Memoization
 |  |
 | ------- |
@@ -296,4 +302,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0090-subsets-ii) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
