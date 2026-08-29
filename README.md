@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0070-climbing-stairs) |
+| [0171-excel-sheet-column-number](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0171-excel-sheet-column-number) |
 | [0204-count-primes](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0509-fibonacci-number) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0079-word-search](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0125-valid-palindrome) |
+| [0171-excel-sheet-column-number](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0171-excel-sheet-column-number) |
 | [0344-reverse-string](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0438-find-all-anagrams-in-a-string) |
