@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0509-fibonacci-number) |
 | [0973-k-closest-points-to-origin](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0973-k-closest-points-to-origin) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1903-largest-odd-number-in-string](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/1903-largest-odd-number-in-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0410-split-array-largest-sum) |
 | [0767-reorganize-string](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0767-reorganize-string) |
 | [0769-max-chunks-to-make-sorted](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0769-max-chunks-to-make-sorted) |
+| [1903-largest-odd-number-in-string](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/1903-largest-odd-number-in-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0767-reorganize-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1903-largest-odd-number-in-string](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/1903-largest-odd-number-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Stack
 |  |
