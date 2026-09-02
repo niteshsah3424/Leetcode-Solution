@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0567-permutation-in-string) |
 | [0767-reorganize-string](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0767-reorganize-string) |
+| [0796-rotate-string](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0796-rotate-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1903-largest-odd-number-in-string](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/1903-largest-odd-number-in-string) |
@@ -371,4 +372,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
