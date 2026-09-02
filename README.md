@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0142-linked-list-cycle-ii) |
+| [0205-isomorphic-strings](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0424-longest-repeating-character-replacement) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0171-excel-sheet-column-number) |
+| [0205-isomorphic-strings](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0438-find-all-anagrams-in-a-string) |
