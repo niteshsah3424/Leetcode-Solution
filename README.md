@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0027-remove-element) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0014-longest-common-prefix) |
 | [0079-word-search](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0151-reverse-words-in-a-string) |
@@ -363,4 +365,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0197-rising-temperature](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0197-rising-temperature) |
 | [0577-employee-bonus](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0577-employee-bonus) |
 | [0627-swap-sex-of-employees](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0627-swap-sex-of-employees) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
