@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0912-sort-an-array](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0973-k-closest-points-to-origin) |
+| [1004-max-consecutive-ones-iii](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/1046-last-stone-weight) |
 | [1207-unique-number-of-occurrences](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/1207-unique-number-of-occurrences) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0560-subarray-sum-equals-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/1004-max-consecutive-ones-iii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0410-split-array-largest-sum) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/1004-max-consecutive-ones-iii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -272,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/0567-permutation-in-string) |
+| [1004-max-consecutive-ones-iii](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/niteshsah3424/Leetcode-Solution/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Enumeration
 |  |
